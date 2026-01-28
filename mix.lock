@@ -1,0 +1,4 @@
+%{
+  "funx": {:hex, :funx, "0.8.2", "40d6841c7c0ed8cf4e97ad76bc9828bb37f60636e977e63bbb072817dc611893", [:mix], [{:telemetry, "~> 1.0", [hex: :telemetry, repo: "hexpm", optional: false]}], "hexpm", "0b836657ded8f9e25f0f1048e5d615d57f2539e9b70b3f029023aa86fc9d8f02"},
+  "telemetry": {:hex, :telemetry, "1.3.0", "fedebbae410d715cf8e7062c96a1ef32ec22e764197f70cda73d82778d61e7a2", [:rebar3], [], "hexpm", "7015fc8919dbe63764f4b4b87a95b7c0996bd539e0d499be6ec9d7f3875b79e6"},
+}
